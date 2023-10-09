@@ -1,4 +1,4 @@
-# COC2023-Kafka-Monitoring
+# Kafka Monitoring | What Matters! - Amrit Sarkar at Community Over Code 2023
 
 https://pretalx.com/bbuzz22/speaker/XMVRDM/
 
