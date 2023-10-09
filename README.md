@@ -1,4 +1,4 @@
-# Kafka Monitoring | What Matters! - Amrit Sarkar at Community Over Code 2023
+# Kafka Monitoring | What Matters! - Amrit Sarkar @ Community Over Code 2023
 
 https://pretalx.com/bbuzz22/speaker/XMVRDM/
 
